@@ -1,1 +1,2 @@
-我们的数据集人为划定6个区域，图片area1~6是每个区域的可视化结果。
+The building facade point clouds dataset was acquired along the National Road and Siming South Road in Xiamen, China, by a REIGK VMX-450 mobile LiDAR system.
+we divided the dataset into 6 areas according to the style and location of the building facades. The images are the visualize of the dataset.
