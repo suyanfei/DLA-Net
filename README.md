@@ -1,3 +1,4 @@
+The part of dataset in here https://drive.google.com/drive/folders/1cZEUnyF3jn0UnQNrhlZCkVjb54XzRTBd?hl=zh-CN
 Note that this code is heavily borrowed from RandLA-Net (https://github.com/QingyongHu/RandLA-Net).
 
 ### (1) Setup
