@@ -5,8 +5,9 @@ Note that this code is heavily borrowed from RandLA-Net (https://github.com/Qing
 ### (1) Setup
 This code has been tested with Python 3.5, Tensorflow 1.15, CUDA 10.0 and cuDNN 7.4.1 on Ubuntu 16.04.
 
-```
+
 - Setup python environment
+
 ```
 conda create -n randlanet python=3.5
 source activate randlanet
@@ -26,6 +27,7 @@ python utils/data_prepare_BF.py
 sh jobs_6_fold_cv_bf.sh
 ```
 - Move all the generated results (*.ply) in `/test` folder to `/data/BF/results`, calculate the final mean IoU results:
+
 ```
 python utils/6_fold_cv.py
 ```
