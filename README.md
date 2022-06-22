@@ -36,7 +36,7 @@ If you find our work useful in your research, please consider citing:
 	  journal={Pattern Recognition},
                   volume = {123},
                   pages = {108372},
-	  year = {2022},
+	          year = {2022},
                   issn = {0031-3203},
                   doi = {https://doi.org/10.1016/j.patcog.2021.108372},
                   url = {https://www.sciencedirect.com/science/article/pii/S0031320321005525},
