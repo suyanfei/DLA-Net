@@ -3,7 +3,6 @@ Note that this code is heavily borrowed from RandLA-Net (https://github.com/Qing
 ### (1) Setup
 This code has been tested with Python 3.5, Tensorflow 1.15, CUDA 10.0 and cuDNN 7.4.1 on Ubuntu 16.04.
 
-```
 - Setup python environment
 ```
 conda create -n randlanet python=3.5
@@ -27,8 +26,6 @@ sh jobs_6_fold_cv_bf.sh
 ```
 python utils/6_fold_cv.py
 ```
-
-
 ### Citation
 If you find our work useful in your research, please consider citing:
 
