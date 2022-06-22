@@ -30,7 +30,7 @@ python utils/6_fold_cv.py
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-@article{su2022dla,
+    @article{su2022dla,
 	  title={DLA-Net: Learning dual local attention features for semantic segmentation of large-scale building facade point clouds},
 	  author={Yanfei Su and Weiquan Liu and Zhimin Yuan and Ming Cheng and Zhihong Zhang and Xuelun Shen and Cheng Wang},
 	  journal={Pattern Recognition},
@@ -40,5 +40,5 @@ If you find our work useful in your research, please consider citing:
                   issn = {0031-3203},
                   doi = {https://doi.org/10.1016/j.patcog.2021.108372},
                   url = {https://www.sciencedirect.com/science/article/pii/S0031320321005525},
-}
+       }
 
