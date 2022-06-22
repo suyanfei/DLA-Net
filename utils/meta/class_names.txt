@@ -1,0 +1,8 @@
+balustrade
+balcony
+advboard
+wall
+eave
+column
+window
+clutter
